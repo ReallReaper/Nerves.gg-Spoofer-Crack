@@ -1,3 +1,5 @@
+Namespace CRACK BY PARCA
+{
 // Token: 0x060001BA RID: 442 RVA: 0x00009EA4 File Offset: 0x000080A4
 		[MethodImpl(MethodImplOptions.NoOptimization)]
 		private void GForm4_Load(object sender, EventArgs e)
@@ -179,4 +181,5 @@
 		// Token: 0x040000C0 RID: 192
 		private IContainer components;
 	}
+    }
 }
